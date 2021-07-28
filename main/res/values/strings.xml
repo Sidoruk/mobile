@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- названия вкладок -->
+    <string name="menu_home">Расписание</string>
+    <string name="menu_gallery">Карта</string>
+    <string name="menu_slideshow">Информация</string>
+
+    <!-- системные сообщения -->
+    <string name="enter_class">Введите класс, например 5А</string>
+
+    <!-- общая информация о секциях и отделах -->
+    <string name="base_info">
+        <b>Приемная директора</b>\n
+        Телефон: 8 (3955) 56-10-05\n
+        Электронна почта: gimn1-angarsk@mail.ru\n\n
+
+        <b>Социально-психологическая служба</b>\n
+        Руководитель - Дьячкова Елена Владимировна\n
+        Кабинет 413\n\n
+
+        <b>Профильное обучение (10-11 класс)</b>\nПроизводится обучение по следующим профильным программам:\n
+        "      "\u2299<i>социально-гуманитарный класс</i>\n
+        "      "\u2299<i>социально-экономический класс</i>\n
+        "      "\u2299<i>лингвистический класс</i>\n
+        "      "\u2299<i>технологический класс</i>\n
+        По вопросам профильного обучения обращаться к Абрамовой Тамаре Григорьевне (каб. 407)\n\n
+
+        <b>Предпрофильная подготовка 5-9 классов</b>\n
+        Углубленное изучение предметов по направлениям:\n
+        "      "\u2299<i>Гуманитарное</i> (русский язык, литература, история, иностранный язык)\n
+        "      "\u2299<i>Технологическое</i> (математика, физика, информатика)\n
+        По вопросам предпрофильной подготовки обращаться к заместителю директора по методической работе Бердникову Александру Геннадьевичу (каб. 410)\n\n
+
+        <b>Художественно-эстетическое отделение</b>\n
+        Доступные кружки и секции:\n
+        "      "\u2299<i>Студия \"Оригами\" (Неустроев Ю.Г., Д329)</i>\n
+        "      "\u2299<i>Кружок \"Бисероплетение\" (Дмитриева Н.В., Д328)</i>\n
+        "      "\u2299<i>Студия дизайна \"Креатив\" (Белогурова Ю.С., Д122)</i>\n
+        "      "\u2299<i>Студия \"Поэтика\"</i> (Гизатулина О.А., Д340)\n
+        "      "\u2299<i>Студия спортивного бального танца \"Грация\" (Демидова И.А., Д238)</i>\n
+        "      "\u2299<i>Театральный кружок \"Гимназисты\" (Трусов А.Г., Д241)</i>\n
+        "      "\u2299<i>ИЗО студия \"Вернисаж\" (Ожиганова О.Д., Д333)</i>\n
+        "      "\u2299<i>Студия дкоративно-прикладного искусства \"Эксклюзив\" (Ожиганова О.Д., Д333)</i>\n
+        "      "\u2299<i>ИЗО студия \"Смотрю на мир глазами художника\" (Шевчук Л.И., 332)</i>\n
+        "      "\u2299<i>Вокально-эстрадная студия \"Талисман\" (Малкова Е.В., Д342)</i>\n
+        "      "\u2299<i>Студия современной хореографии (Герасимова М.Е., Д133)</i>\n
+        "      "\u2299<i>Ансамбль русской народной песни \"Рушничок\" (Воробьева С.В., Д343)</i>\n
+        "      "\u2299<i>Кружок юных инспекторов дорожного движения (ЮИД) (Зуева Л.В., Д340)</i>\n
+        "      "\u2299<i>Военно-спортивный клуб \"Вепрь\" (Соловьев О.М., спортивный зал)</i>\n
+        "      "\u2299<i>Секция волейбола (Есаулова Ф.Д., спортивный зал)</i>\n
+        "      "\u2299<i>Секция баскетбола (Ульянов А.Т., спортивный зал)</i>\n
+        "      "\u2299<i>Хор начальных классов (Коногорская О.В., Д339)</i>\n
+        "      "\u2299<i>Секция плавания (Маклачков Д.Е., Скороходов В.Н., бассейн)</i>\n\n
+
+        <b>Режим работы столовой</b>\n
+        С 9:00 до 16:00\n
+        Заведующая столовой - Сафронова Ольга Николаевна\n\n
+
+        <b>Фонд \"Развитие. Интеллект. Культура\"</b>\n
+        Телефон: 56-07-37
+    </string>
+
+    <!-- дни недели -->
+    <string name="day_monday">ПН</string>
+    <string name="day_tuesday">ВТ</string>
+    <string name="day_wednesday">СР</string>
+    <string name="day_thursday">ЧТ</string>
+    <string name="day_friday">ПТ</string>
+    <string name="day_saturday">СБ</string>
+
+    <!-- расписание звонков (будни) -->
+    <string name="start1"> 8:30 - 9:10 </string>
+    <string name="start2"> 9:30 - 10:10</string>
+    <string name="start3">10:30 - 11:10</string>
+    <string name="start4">11:30 - 12:10</string>
+    <string name="start5">12:30 - 13:10</string>
+    <string name="start6">13:30 - 14:10</string>
+    <string name="start7">14:30 - 15:10</string>
+    <string name="start8">15:30 - 16:10</string>
+
+    <!-- расписание звонков (суббота) -->
+    <string name="sat_start1"> 8:30 - 9:10 </string>
+    <string name="sat_start2"> 9:20 - 10:00</string>
+    <string name="sat_start3">10:10 - 10:50</string>
+    <string name="sat_start4">11:00 - 11:40</string>
+    <string name="sat_start5">11:50 - 12:30</string>
+    <string name="sat_start6">12:40 - 13:20</string>
+    <string name="sat_start7">13:30 - 14:10</string>
+    <string name="sat_start8">             </string>
+
+    <!-- названия дисциплин -->
+    <string name="disc_blanc">   </string>
+    <string name="disc_math">Математика</string>
+    <string name="disc_algebra">Алгебра</string>
+    <string name="disc_geometry">Геометрия</string>
+    <string name="disc_physics">Физика</string>
+    <string name="disc_biology">Биология</string>
+    <string name="disc_history">История</string>
+    <string name="disc_social">Обществознание</string>
+    <string name="disc_russian">Русский язык</string>
+    <string name="disc_literature">Литература</string>
+    <string name="disc_english">Английский язык</string>
+    <string name="disc_german">Немецкий язык</string>
+    <string name="disc_french">Французский язык</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
